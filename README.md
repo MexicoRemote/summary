@@ -24,5 +24,11 @@ List of the topics to write about remote working in MexicoRemote
 - Bitbucket
 - Jira
 
+### Tool comparison
+- Collaboration (x2)
+- Project Management (x3)
+- Time Tracking & Invoicing (x3)
+- Version Control
+
 ### Interviews
 - Octophus
