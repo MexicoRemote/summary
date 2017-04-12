@@ -14,10 +14,15 @@ List of the topics to write about remote working in MexicoRemote
 ### Articles for individuals
 - X% de empleados en México trabajan de manera remota
 - The remote worker setup
+- Trabajos que se pueden realizar de manera remota
+- Empresas Mexicanas contratando empleados remotos
 
 ### Tool reviews
 - Slack
 - Trello
+- Asana
+- Bitbucket
+- Jira
 
 ### Interviews
 - Octophus
