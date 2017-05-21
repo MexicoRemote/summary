@@ -16,6 +16,7 @@ List of the topics to write about remote working in MexicoRemote
 - The remote worker setup
 - Trabajos que se pueden realizar de manera remota
 - Empresas Mexicanas contratando empleados remotos
+- ¿Qué buscar en un Coworking Space?
 
 ### Tool reviews
 - Slack
