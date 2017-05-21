@@ -34,5 +34,9 @@ List of the topics to write about remote working in MexicoRemote
 ### Interviews
 - Octophus
 
+## Nice to have
+
 ### Coworking Spaces directory
 - with reviews
+
+### Job Board
